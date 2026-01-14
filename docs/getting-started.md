@@ -1,8 +1,3 @@
----
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/5wynqMT9gy4ao8a2VoeO/docs/getting-started
----
 
 # Getting Started
 
